@@ -2,8 +2,6 @@ from twisted.internet.protocol import DatagramProtocol
 from twisted.internet import reactor
 from time import sleep
 
-import sys
-
 
 
 def address_to_string(address):
